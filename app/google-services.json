@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804697069563",
+    "project_id": "artpoint-3f147",
+    "storage_bucket": "artpoint-3f147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804697069563:android:621b785f75bb6b47acdd5e",
+        "android_client_info": {
+          "package_name": "com.example.artpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804697069563-fovao7m9h3uarl95dms156ai3nf5k5sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALEGRaXnECCThEDe8EZXLqIli3yhYydGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804697069563-fovao7m9h3uarl95dms156ai3nf5k5sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
